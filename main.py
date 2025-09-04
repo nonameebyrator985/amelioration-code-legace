@@ -1,5 +1,5 @@
 def main():
-    print('Bienvenue dans le projet d Amélioration du Code Hérité!')
+    print('Bienvenue dans le projet d'amélioration du code hérité!')
 
 if __name__ == '__main__':
     main()
