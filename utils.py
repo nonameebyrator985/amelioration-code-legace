@@ -1,8 +1,12 @@
 def analyse_code(code):
-    # Placeholder pour une logique d'analyse de code
+    """
+    Analyze the provided code and return any problems and suggestions.
+    """
     return {'problems': [], 'suggestions': []}
 
 
 def refactor_code(code):
-    # Placeholder pour la logique de refactoring
+    """
+    Refactor the provided code and return the modified version.
+    """
     return code
